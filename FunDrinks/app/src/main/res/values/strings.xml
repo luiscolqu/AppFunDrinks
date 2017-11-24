@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FunDrinks</string>
+
+    <string name="slogan">No importa donde estes: Cuando estes en casa o oficina, en la playa.</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
